@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/hdnfr_ver2/BuildConfig.java
+ com.example.hdnfr_ver2.BuildConfig
